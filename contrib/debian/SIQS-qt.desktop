@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SIQS
+Comment=SIQS P2P Cryptocurrency
+Comment[fr]=SIQS, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SIQS, eşten eşe kriptografik sanal para birimi
+Exec=SIQS-qt %u
+Terminal=false
+Type=Application
+Icon=SIQS128
+MimeType=x-scheme-handler/SIQS;
+Categories=Office;Finance;
